@@ -21,6 +21,8 @@ public class Calc {
              System.out.println(a-b);
          }else if(oprand == '/'){
              System.out.println(a/b);
+         }else if(oprand ='%'){
+             System.out.println(a%b);
          }
          else {
              System.out.println("input wrong oprand");
