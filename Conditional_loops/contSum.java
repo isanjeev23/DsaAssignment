@@ -19,6 +19,7 @@ public class contSum {
             
          
         }
+        scn.close();
        
         float avg = (float)sum / count ;
         System.out.println(avg);
