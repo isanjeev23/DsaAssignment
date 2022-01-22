@@ -21,7 +21,7 @@ public class Calc {
              System.out.println(a-b);
          }else if(oprand == '/'){
              System.out.println(a/b);
-         }else if(oprand ='%'){
+         }else if(oprand =='%'){
              System.out.println(a%b);
          }
          else {
